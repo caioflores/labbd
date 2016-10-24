@@ -1,1 +1,1 @@
-Readme do projeto.
+Instalar o pymongo: pip install pymongo
